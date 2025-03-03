@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsResponse xmlns="http://afaf.com/courses"
+                          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                          xsi:schemaLocation="http://afaf.com/courses course-details.xsd">
+    <CourseDetails>
+        <id>123</id>
+        <name>Spring boot</name>
+        <description>you should learn the basics</description>
+    </CourseDetails>
+</GetCourseDetailsResponse>
